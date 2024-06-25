@@ -1,6 +1,6 @@
 # qq
 qqsb、Tencentsb  
-8亿QQ绑定数据、腾讯泄露数据  
+8e qqdatabase  
 
 ![Image text](https://i.imgur.com/bvstdLp.jpg)  
 
@@ -9,8 +9,7 @@ qqsb、Tencentsb
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
 magnet:?xt=urn:btih:c81e0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1  
 
-# 举报一次腾讯安全的全体员工死个爹妈  
-使用方式：  
+#使用方式：  
 建立数据库，建立表 user，  
 qq 的两字段 qq 和 phone，  
 WB的两字段 phone 和 uid ，  
@@ -34,19 +33,15 @@ FIELDS TERMINATED BY ‘\t’
 LINES TERMINATED BY ‘\n'(phone,uid)  
 
 备用地址  
-https://www.kjsv.com/  
-https://www.newyuanma.com/512.html  
-https://www.qiqiboke.com/1041.html  
-https://www.zslsb.com/qitafx/2219.html  
-https://www.hzgzn.com/zybk/10418.html  
+https://www.kjsv.com/
 https://www.vpsche.com/10919.html  
+https://www.qiqiboke.com/1041.html  
 
-自建TG社工库机器人[@shegongku58bot](https://t.me/shegongku58bot)
-分享失效联系QQ45215509免费拿（5.95G数据和7E人口数据）  
+TGBOT[@shegongku58bot](https://t.me/shegongku58bot)  
 [免责声明](https://github.com/qq8e/qq/blob/main/wz/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.txt)
 
 
-#数据泄露#44.65GB裤子(QQWB等)BT下载
+#Data loss#44.65GB(QQWB)BT download
 大杂烩
 3 年前
 
@@ -58,9 +53,7 @@ UPDATE: BT支持部分文件下载，如果不需要某些裤子，在开始前�
 
 磁力链接：magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b
 
-裤子来自 @ybqc
-
-使用方式：
+#how to use？
 建立数据库，建立表 user，
 qq 的两字段 qq 和 phone，
 WB的两字段 phone 和 uid ，
