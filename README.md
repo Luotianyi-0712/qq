@@ -8,8 +8,6 @@ qqsb、Tencentsb
 ![Image text](https://i.imgur.com/bvstdLp.jpg)  
 
 查询结果  
-![Image text](https://www.hzgzn.com/content/uploadfile/202101/1af11611802167.jpeg)  
-
 下载地址  
 [360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
 [百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
