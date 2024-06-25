@@ -1,18 +1,9 @@
 # qq
 qqsb、Tencentsb  
 8亿QQ绑定数据、腾讯泄露数据  
-![Image text](https://i.imgur.com/J8oFiP9.png)  
-
-![Image text](https://www.hzgzn.com/content/uploadfile/202101/224d1611802167.png)  
 
 ![Image text](https://i.imgur.com/bvstdLp.jpg)  
 
-查询结果  
-下载地址  
-[360安全网盘](https://36263f.link.yunpan.360.cn/lk/surl_yS9zkMdGJCi)  
-[百度网盘](https://pan.baidu.com/s/1MuBCEJWCjs7cDwbgQdibww)  
-[百度网盘(新)](https://pan.baidu.com/s/12FfwVdmzYNkZXTzooH_xQA)提取码：404v  
-[天翼网盘(解压密码：209754)](https://cloud.189.cn/t/ziieemMruaq2)  
 分享的国内网盘频繁被一些SB举报删除，数据共享人人有责  
 种子 https://mega.nz/file/ct9iVLia#Zd48MrnZehsNyPd0FWX9FZ1TTc7Q9Ket-zJvboABwPw  
 磁力链接 magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b  
@@ -68,10 +59,6 @@ UPDATE: BT支持部分文件下载，如果不需要某些裤子，在开始前�
 磁力链接：magnet:?xt=urn:btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b
 
 裤子来自 @ybqc
-
-#数据泄露#44.65GB裤子(QQWB等)BT下载
-
- 
 
 使用方式：
 建立数据库，建立表 user，
